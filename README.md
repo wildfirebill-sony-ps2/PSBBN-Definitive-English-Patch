@@ -1,5 +1,7 @@
 # PSBBN Definitive English Patch
 
+Modified by [wildfirebill](https://github.com/wildfirebill)
+
 This is the Definitive English Patch for Sony's "PlayStation Broadband Navigator" software (also known as BB Navigator or PSBBN) for the "PlayStation 2" (PS2) video game console.
 
 PSBBN is official Sony software for the PlayStation 2, released exclusively in Japan. Introduced in 2002 as a replacement for the PS2’s OSD, it required both a hard drive and a network adapter to function. It added many new features:
